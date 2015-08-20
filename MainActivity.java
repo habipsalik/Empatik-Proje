@@ -17,6 +17,13 @@ public class MainActivity extends ActionBarActivity {
 
         final ImageButton img1 = (ImageButton) findViewById(R.id.imageButton1);
         final ImageButton img2 = (ImageButton) findViewById(R.id.imageButton2);
+
+
+
+
+
+
+
         img1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
